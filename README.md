@@ -1,5 +1,6 @@
 # Estudo-aws_1 SAA01 
 Infraestrutura de TI da Empresa X para a nuvem
+
 Migrar a infraestrutura de TI da Empresa X para a nuvem, implementando uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente. 
 O grupo deve montar um diagrama de como ficaria a estrutura da AWS, com serviços que o grupo entender ser o ideal.
 Implementamos uma aplicação com alta disponibilidade, utilizando:
